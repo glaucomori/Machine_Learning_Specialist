@@ -1,4 +1,4 @@
-# Criando um sistema de assistência virtual do zero.
+# Criando um sistema de assistência virtual.
 
 Projeto para desenvolvimento de um sistema de assistência virtual, utilizando PLN (Processamento de Linguagem Natural)
 
